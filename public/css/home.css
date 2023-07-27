@@ -10,6 +10,7 @@ body{
     position: relative;
     /* font-family: 'Dancing Script', cursive; */
     font-family: 'poppins', sans-serif;
+    background: #595959;
 }
 
 ::selection{
@@ -27,7 +28,8 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 0 5vw;
-    background: #5A5A5A;
+    
+    background: #000000;
     z-index: 9;
 }
 
@@ -41,7 +43,7 @@ body{
     margin-left: 10px;
     text-decoration: none;
     text-transform: capitalize;
-    color: #000;
+    color: #ffffff;
 }
 
 .header{
@@ -82,7 +84,7 @@ body{
     padding: 10px 20px;
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.7);
-    color: #000;
+    color: #ffffff;
     text-decoration: none;
     text-transform: capitalize;
 }
